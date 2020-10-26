@@ -1,0 +1,193 @@
+1 is the opcode at cycless 2
+
+hello there
+2
+8 is the opcode at cycless 3
+
+stall occurred at 3 cycle.
+8 is the opcode at cycless 4
+
+stall occurred at 4 cycle.
+8 is the opcode at cycless 5
+
+stall occurred at 5 cycle.
+8 is the opcode at cycless 6
+
+8 is the opcode at cycless 7
+
+1 is the opcode at cycless 8
+
+hello there
+8
+stall occurred at 8 cycle.
+1 is the opcode at cycless 9
+
+hello there
+9
+stall occurred at 9 cycle.
+1 is the opcode at cycless 10
+
+hello there
+10
+stall occurred at 10 cycle.
+1 is the opcode at cycless 11
+
+hello there
+11
+11 is the opcode at cycless 12
+
+stall occurred at 12 cycle.
+stall occurred at 13 cycle.
+stall occurred at 14 cycle.
+9 is the opcode at cycless 16
+
+stall occurred at 16 cycle.
+9 is the opcode at cycless 17
+
+10 is the opcode at cycless 18
+
+stall occurred at 18 cycle.
+stall occurred at 19 cycle.
+stall occurred at 20 cycle.
+15 is the opcode at cycless 22
+
+0th stall is 1
+1th stall is 1
+2th stall is 1
+3th stall is 1
+4th stall is 1
+5th stall is 1
+6th stall is 0
+7th stall is 0
+8th stall is 0
+9th stall is 1
+10th stall is 0
+11th stall is 0
+12th stall is 0
+Hii 25
+chocotaco@MiWiFi-R3L-srv:~/Documents/Project8/T1$ g++ sp.cpp -o sp && ./sp
+1 is the opcode at cycless 2
+
+hello there
+2
+8 is the opcode at cycless 3
+
+stall occurred at 3 cycle.
+8 is the opcode at cycless 4
+
+stall occurred at 4 cycle.
+8 is the opcode at cycless 5
+
+stall occurred at 5 cycle.
+8 is the opcode at cycless 6
+
+8 is the opcode at cycless 7
+
+1 is the opcode at cycless 8
+
+hello there
+8
+stall occurred at 8 cycle.
+1 is the opcode at cycless 9
+
+hello there
+9
+stall occurred at 9 cycle.
+1 is the opcode at cycless 10
+
+hello there
+10
+stall occurred at 10 cycle.
+1 is the opcode at cycless 11
+
+hello there
+11
+11 is the opcode at cycless 12
+
+stall occurred at 12 cycle.
+stall occurred at 13 cycle.
+stall occurred at 14 cycle.
+9 is the opcode at cycless 16
+
+stall occurred at 16 cycle.
+9 is the opcode at cycless 17
+
+10 is the opcode at cycless 18
+
+stall occurred at 18 cycle.
+stall occurred at 19 cycle.
+stall occurred at 20 cycle.
+15 is the opcode at cycless 22
+
+0th stall is 1
+1th stall is 1
+2th stall is 1
+3th stall is 1
+4th stall is 1
+5th stall is 1
+6th stall is 0
+7th stall is 0
+8th stall is 0
+9th stall is 1
+10th stall is 0
+11th stall is 0
+12th stall is 0
+Hii 25
+chocotaco@MiWiFi-R3L-srv:~/Documents/Project8/T1$ g++ sp.cpp -o sp && ./sp
+1 is the opcode at cycless 2
+
+8 is the opcode at cycless 3
+
+stall occurred at 3 cycle.
+8 is the opcode at cycless 4
+
+stall occurred at 4 cycle.
+8 is the opcode at cycless 5
+
+stall occurred at 5 cycle.
+8 is the opcode at cycless 6
+
+8 is the opcode at cycless 7
+
+1 is the opcode at cycless 8
+
+stall occurred at 8 cycle.
+1 is the opcode at cycless 9
+
+stall occurred at 9 cycle.
+1 is the opcode at cycless 10
+
+stall occurred at 10 cycle.
+1 is the opcode at cycless 11
+
+11 is the opcode at cycless 12
+
+stall occurred at 12 cycle.
+stall occurred at 13 cycle.
+stall occurred at 14 cycle.
+9 is the opcode at cycless 16
+
+stall occurred at 16 cycle.
+9 is the opcode at cycless 17
+
+10 is the opcode at cycless 18
+
+stall occurred at 18 cycle.
+stall occurred at 19 cycle.
+stall occurred at 20 cycle.
+15 is the opcode at cycless 22
+
+0th stall is 1
+1th stall is 1
+2th stall is 1
+3th stall is 1
+4th stall is 1
+5th stall is 1
+6th stall is 0
+7th stall is 0
+8th stall is 0
+9th stall is 1
+10th stall is 0
+11th stall is 0
+12th stall is 0
+Hii 25

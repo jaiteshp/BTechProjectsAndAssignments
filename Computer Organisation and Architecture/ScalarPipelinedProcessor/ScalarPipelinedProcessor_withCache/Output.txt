@@ -1,0 +1,26 @@
+10
+7
+0
+2
+0
+3.1
+17
+S1 : RAW
+S2 : RAW
+S3 : RAW
+S4 : RAW
+S5 : RAW
+S6 : RAW
+S7 : RAW
+S8 : RAW
+S9 : RAW
+S10 : RAW
+S11 : RAW
+S12 : RAW
+S13 : RAW
+S14 : RAW
+S15 : RAW
+S16 : RAW
+S17 : RAW
+RAW: 17
+Control: 0

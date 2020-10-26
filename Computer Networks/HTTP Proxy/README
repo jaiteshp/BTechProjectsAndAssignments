@@ -1,0 +1,4 @@
+1. Execute make
+2. To test throug script, execute
+	a) python2 proxy_tester.py ps2 <PORT>
+	b) python2 proxy_tester_conc.py ps2 <PORT>

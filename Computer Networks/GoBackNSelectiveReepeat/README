@@ -1,0 +1,15 @@
+The SR directory contains the implementation of Selective Repeat Protocol
+The GBN directory contains the implementation of GO Back N Protocol
+
+All the Data collected in the report was done mostly using
+1. MAX_PACKETS = 400
+2. Window_size = 4
+3. Buffer_size = 100
+4. Sequence_Bits = 8
+
+In the implementation of both protocols, the arrays are initialised(for recording RTT,..) to a size of 10000. 
+So, if the MAX_PACKETS to be give via command line are more than that(10000), we have to change the initialisation size in the program.
+else, (when MAX_PACKETS < 10000), MAX_PACKETS can be normally given via command line interface.
+
+
+In python, it is not possible to create a data packet which is exactly of required size. So the packets I created are very closed to required packet length but are not of size exactly equal to packet length 

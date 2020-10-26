@@ -1,0 +1,19 @@
+16384	//cache size (Bytes)
+64		//block size (Bytes)
+4		//type of cache (Set-assoc: 4)
+1		//replacement policy (LRU)
+32536	//cache accesses
+17263	//read accesses
+15273	//write accesses
+892		//cache misses		575
+562		//compulsory misses	562
+318		//Conflict misses		13
+0		//capacity misses
+516		//read misses			251
+376		//write misses			324
+242		//dirty blocks evicted	243
+
+
+
+
+*****PLEASE NOTE: OUTPUT SHOULD NOT CONTAIN COMMENTS******
